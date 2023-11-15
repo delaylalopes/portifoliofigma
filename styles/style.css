@@ -155,6 +155,10 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    .rodape{
+    width: 100%;
+
+    }
 }
 
 .form {
