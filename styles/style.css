@@ -43,7 +43,7 @@ body{
 }
 
 .cabecalho__menu__link{
-     width: 700;
+     width: 350;
      height: 35px;
      line-height: 29.26px;
     font-family: var(--font-secundaria);
